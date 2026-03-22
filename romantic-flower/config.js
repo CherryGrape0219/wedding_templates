@@ -19,7 +19,7 @@ const CONFIG = {
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "길동",
+    name: "길동ㅡㅡㅡㅡㅡ",
     lastName: "홍",
     fullName: "홍길동",
     father: "홍판서",
