@@ -19,31 +19,31 @@ const CONFIG = {
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "길동",
-    lastName: "홍",
-    fullName: "홍길동",
-    father: "홍판서",
-    mother: "춘섬",
+    name: "김",
+    lastName: "동현",
+    fullName: "김동현",
+    father: "김정호",
+    mother: "최돈순",
     fatherDeceased: false, // 故인이면 true
     motherDeceased: false,
   },
 
   bride: {
-    name: "영희",
-    lastName: "김",
-    fullName: "김영희",
-    father: "김철수",
-    mother: "이미영",
+    name: "전",
+    lastName: "고운",
+    fullName: "전고운",
+    father: "전용채",
+    mother: "전고운",
     fatherDeceased: false,
     motherDeceased: false,
   },
 
   wedding: {
-    date: "2025-05-17",        // YYYY-MM-DD
-    time: "13:00",             // HH:MM (24시간)
+    date: "2026-05-09",        // YYYY-MM-DD
+    time: "14:00",             // HH:MM (24시간)
     dayOfWeek: "토요일",
-    venue: "더 채플앳 청담",
-    hall: "그랜드볼룸 3층",
+    venue: "벨라루체 회기",
+    hall: "플로체홀 7층",
     address: "서울특별시 강남구 청담동 123-45",
     tel: "02-1234-5678",
     mapLinks: {
