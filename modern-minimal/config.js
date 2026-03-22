@@ -29,7 +29,7 @@ const CONFIG = {
   },
 
   bride: {
-    name: "신부",
+    name: "신부1111111",
     nameEn: "BRIDE",
     father: "아버지",
     mother: "어머니",
